@@ -55,7 +55,7 @@ Each implementation follows the required constraints:
 ✅ Uses **PyTorch Lightning** for structured model training  
 ✅ Automatically handles **training loop, loss tracking, and optimization**  
 
-📌 **Colab Notebook:** [🔗 PyTorch Lightning](#)  
+📌 **Colab Notebook:** [🔗 PyTorch Lightning](https://github.com/syedanida/Neural-Network/blob/main/4_PyTorchLigthnin-cleaned.ipynb)  
 
 ---
 
