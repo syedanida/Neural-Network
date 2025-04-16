@@ -33,7 +33,7 @@ Each implementation follows the required constraints:
 🔹 **Uses non-linear activation functions**  
 🔹 **Manual backpropagation with chain rule**  
 
-📌 **Colab Notebook:** [🔗 NumPy Neural Network](#)  
+📌 **Colab Notebook:** [🔗 NumPy Neural Network](https://github.com/syedanida/Neural-Network/blob/main/1_3LayerNeuralNetwork.ipynb)  
 
 ---
 
@@ -43,13 +43,13 @@ Each implementation follows the required constraints:
 ✅ Implements a **fully custom 3-layer neural network**  
 ✅ Uses **manual weight updates & activation functions**  
 
-📌 **Colab Notebook:** [🔗 PyTorch Manual](#)  
+📌 **Colab Notebook:** [🔗 PyTorch Manual](https://github.com/syedanida/Neural-Network/blob/main/2_pyTorch3LayerNeuralNetwork.ipynb)  
 
 ### 🔥 **PyTorch Classes-Based (With Built-in Modules)**  
 ✅ Uses **`nn.Module` for defining the network**  
 ✅ Implements **backpropagation & loss optimization**  
 
-📌 **Colab Notebook:** [🔗 PyTorch Classes](#)  
+📌 **Colab Notebook:** [🔗 PyTorch Classes](https://github.com/syedanida/Neural-Network/blob/main/3_3LayerNeuralNetwork.ipynb)  
 
 ### 🏆 **PyTorch Lightning Implementation**  
 ✅ Uses **PyTorch Lightning** for structured model training  
@@ -65,29 +65,29 @@ Each implementation follows the required constraints:
 ✅ Implements **low-level TensorFlow ops**  
 ✅ Uses **`tensorflow.einsum` instead of matrix multiplication**  
 
-📌 **Colab Notebook:** [🔗 TensorFlow Low-Level](#)  
+📌 **Colab Notebook:** [🔗 TensorFlow Low-Level](https://github.com/syedanida/Neural-Network/blob/main/5_TensorFlow.ipynb)  
 
 ### 🚀 **TensorFlow with Built-in Layers**  
 ✅ Uses **`tf.keras.layers` to build the 3-layer network**  
 
-📌 **Colab Notebook:** [🔗 TensorFlow Built-in Layers](#)  
+📌 **Colab Notebook:** [🔗 TensorFlow Built-in Layers](https://github.com/syedanida/Neural-Network/blob/main/6_TensorFlow3LayerNeuralNetwork.ipynb)  
 
 ### 🔥 **TensorFlow Functional API**  
 ✅ Uses **Functional API for model definition**  
 ✅ Easily extends for complex architectures  
 
-📌 **Colab Notebook:** [🔗 TensorFlow Functional API](#)  
+📌 **Colab Notebook:** [🔗 TensorFlow Functional API](https://github.com/syedanida/Neural-Network/blob/main/7_TensorFlowFunctionalAPI.ipynb)  
 
 ### 🏆 **TensorFlow High-Level API**  
 ✅ Uses **`tf.keras.Sequential` for simple model definition**  
 
-📌 **Colab Notebook:** [🔗 TensorFlow High-Level API](#)   
+📌 **Colab Notebook:** [🔗 TensorFlow High-Level API](https://github.com/syedanida/Neural-Network/blob/main/8_TensorFlowHighLevelAPI.ipynb)   
 
 ---
 
 ## 📌 Part D: 4D Plot Visualization  
 
-📌 **Colab Notebook:** [🔗 4D Visualization](#)   
+📌 **Colab Notebook:** [🔗 4D Visualization](https://github.com/syedanida/Neural-Network/blob/main/4D_Plot_Visualization.ipynb)   
 
 ✅ Generates **synthetic data** using the **3-variable non-linear equation**  
 ✅ Uses **Matplotlib to create a 4D scatter plot**  
