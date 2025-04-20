@@ -97,4 +97,4 @@ Each implementation follows the required constraints:
 ## 🎬 Video Demonstrations  
 
 **Each notebook is accompanied by a video walkthrough:**  
-🔗 **[Full Playlist](#)**  
+🔗 **[Full Playlist](https://youtu.be/_GHk2MYiEDg)**  
